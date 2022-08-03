@@ -31,3 +31,11 @@ body{
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer{
+    background-color:cadetblue;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0,5em;
+}
